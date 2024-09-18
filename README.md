@@ -16,12 +16,19 @@
 
 ## 😐 Current Mood
 
-![](https://github.com/UnusualMessage/UnusualMessage/blob/main/ohui.gif)
+<p align="center">
+   <img src="https://github.com/UnusualMessage/UnusualMessage/blob/main/ohui.gif"/>
+</p>
 
 ## 🔥 LeetCode Status
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/UnusualMessage?theme=dark&font=Rubik&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/UnusualMessage?theme=nord&font=Roboto&ext=heatmap)
 
 ## 😄 Funny Gifs
 
-![](https://github.com/UnusualMessage/UnusualMessage/blob/main/work_ne_volk.gif)
+<div>
+  <img src="https://github.com/UnusualMessage/UnusualMessage/blob/main/work_ne_volk.gif" style="width: 190px" />
+  <img src="https://github.com/UnusualMessage/UnusualMessage/blob/main/neznachitelnaya_orfograficheskaya_oshibka.gif" style="width: 335px" />
+  <img src="https://github.com/UnusualMessage/UnusualMessage/blob/main/problemy_s_navykom.gif" style="width: 450px" />
+</div>
