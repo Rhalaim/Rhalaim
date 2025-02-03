@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Nikita Kotenko
+<img src="https://github.com/UnusualMessage/UnusualMessage/blob/main/header.png"/>
 
 I'm a **1.5-stack developer** and a student at the Kaluga Branch of BMSTU. 
 I'm currently working on a complex interactive map of the university campus and learning NestJS for the backend and PrimeVue for the frontend.
@@ -11,13 +11,14 @@ I'm currently working on a complex interactive map of the university campus and 
 
 [![My Skills](https://skillicons.dev/icons?i=react,webpack,dotnet,cs,postman,ai,figma,godot)](https://skillicons.dev)
 
+## 🔥 LeetCode Status
+
+<p align="center">
+   <img src="https://leetcard.jacoblin.cool/UnusualMessage?theme=dark&font=Rubik&ext=heatmap"/>
+</p>
+
 ## 😐 Current Mood
 
 <p align="center">
    <img src="https://github.com/UnusualMessage/UnusualMessage/blob/main/ohui.gif"/>
 </p>
-
-## 🔥 LeetCode Status
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/UnusualMessage?theme=dark&font=Rubik&ext=heatmap)
-![LeetCode Stats](https://leetcard.jacoblin.cool/UnusualMessage?theme=nord&font=Roboto&ext=heatmap)
